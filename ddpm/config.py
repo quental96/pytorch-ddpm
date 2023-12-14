@@ -9,8 +9,8 @@ class BaseConfig:
     DATASET = 'data'
 
     # For logging inference images and saving checkpoints.
-    root_log_dir = os.path.join("logs/", "inference")
-    root_checkpoint_dir = os.path.join("logs/", "checkpoints")
+    root_log_dir = os.path.join("results/", "inference")
+    root_checkpoint_dir = os.path.join("results/", "checkpoints")
 
     # For sampling.
     root_samples_dir = "samples/"
