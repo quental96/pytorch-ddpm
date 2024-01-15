@@ -1,4 +1,4 @@
-# learnopencv-ddpm
+# pytorch-ddpm
 
 Code based on this [article](https://learnopencv.com/denoising-diffusion-probabilistic-models/) from [learnopencv.com](https://learnopencv.com/). Good starting point for learning about DDPMs.
 
